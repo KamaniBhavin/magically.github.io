@@ -42,7 +42,7 @@ TABLE OF CONTENTS
 
 
 
-1. WHAT INFORMATION DO WE COLLECT?
+**WHAT INFORMATION DO WE COLLECT?**
 
 
 Personal information you disclose to us
@@ -78,7 +78,7 @@ We automatically collect certain information when you visit, use, or navigate th
 
 The information we collect includes:
 Log and Usage Data. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
-2. HOW DO WE PROCESS YOUR INFORMATION?
+**HOW DO WE PROCESS YOUR INFORMATION?**
 
 
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
@@ -94,7 +94,7 @@ To send you marketing and promotional communications. We may process the persona
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+**WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
 
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
@@ -134,7 +134,7 @@ If the collection is solely for journalistic, artistic, or literary purposes
 If the information is publicly available and is specified by the regulations
 
 
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+**WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
 
 
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
@@ -144,7 +144,7 @@ We may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 
-5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+**HOW DO WE HANDLE YOUR SOCIAL LOGINS?**
 
 
 In Short: If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
@@ -156,7 +156,7 @@ Our Services offer you the ability to register and log in using your third-party
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
 
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
+**HOW LONG DO WE KEEP YOUR INFORMATION?**
 
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
@@ -168,7 +168,7 @@ We will only keep your personal information for as long as it is necessary for t
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 
-7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+**HOW DO WE KEEP YOUR INFORMATION SAFE?**
 
 
 In Short: We aim to protect your personal information through a system of organizational and technical security measures.
@@ -177,7 +177,7 @@ In Short: We aim to protect your personal information through a system of organi
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
 
-8. WHAT ARE YOUR PRIVACY RIGHTS?
+**WHAT ARE YOUR PRIVACY RIGHTS?**
 
 
 In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
@@ -211,13 +211,13 @@ Upon your request to terminate your account, we will deactivate or delete your a
 If you have questions or comments about your privacy rights, you may email us at 13havinkamani@gmail.com.
 
 
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
+**CONTROLS FOR DO-NOT-TRACK FEATURES**
 
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
 
-10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+**DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
 
 In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
@@ -247,25 +247,78 @@ If this definition of "resident" applies to you, we must adhere to certain right
 
 What categories of personal information do we collect?
 
-
-We have collected the following categories of personal information in the past twelve (12) months:
-
-
-| Category | Examples | Collected |
-|----------|------------|-----------|
-| Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | No        |
-| Personal information categories listed in the California Customer Records statute | Name, contact information, education, employment, employment history and financial information | No        |
-| Protected classification characteristics under California or federal law | Gender and date of birth | No        |
-| Commercial information | Transaction information, purchase history, financial details and payment information | No        |
-| Biometric information | Fingerprints and voiceprints | No        |
-| Internet or other similar network activity | Browsing history, search history, and information regarding a person's interaction with an Internet website, application, or advertisement | No        |
-| Geolocation data | Physical location or movements | No        |
-| Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | No        |
-| Professional or employment-related information | Current or past job history or performance evaluations | No        |
-| Education Information | Student records and directory information | No        |
-| Inferences drawn from other personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics | No        |
-| Sensitive personal information | Other information as specified by applicable law | No        |
-------------------------------------------------------------
+<table>
+    <tr>
+        <td>Category</td>
+        <td>Examples</td>
+        <td>Collected</td>
+    </tr>
+    <tr>
+        <td>Identifiers</td>
+        <td>Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Personal information categories listed in the California Customer Records statute</td>
+        <td>Name, contact information, education, employment, employment history and financial information</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Protected classification characteristics under California or federal law</td>
+        <td>Gender and date of birth</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Commercial information</td>
+        <td>Transaction information, purchase history, financial details and payment information</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Biometric information</td>
+        <td>Fingerprints and voiceprints</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Internet or other similar network activity</td>
+        <td>Browsing history, search history, and information regarding a person's interaction with an Internet website, application, or advertisement</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Geolocation data</td>
+        <td>Physical location or movements</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Audio, electronic, visual, thermal, olfactory, or similar information</td>
+        <td>Images and audio, video or call recordings created in connection with our business activities</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Professional or employment-related information</td>
+        <td>Current or past job history or performance evaluations</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Education Information</td>
+        <td>Student records and directory information</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Inferences drawn from other personal information</td>
+        <td>Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Sensitive personal information</td>
+        <td>Other information as specified by applicable law</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>------------------------------------------------------------</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 Receiving help through our customer support channels;
@@ -348,7 +401,7 @@ You may request to opt out from future selling or sharing of your personal infor
 To exercise these rights, you can contact us by email at 13havinkamani@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 
-11. DO WE MAKE UPDATES TO THIS NOTICE?
+**DO WE MAKE UPDATES TO THIS NOTICE?**
 
 
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
@@ -357,7 +410,7 @@ In Short: Yes, we will update this notice as necessary to stay compliant with re
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
 
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+**HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
 
 If you have questions or comments about this notice, you may email us at 13havinkamani@gmail.com or by post to:
@@ -370,7 +423,7 @@ Vapi, Gujarat 396195 <br/>
 India
 
 
-13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+**HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request by email to 13havinkamani@gmail.com.
