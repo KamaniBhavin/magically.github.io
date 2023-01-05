@@ -313,11 +313,6 @@ What categories of personal information do we collect?
         <td>Other information as specified by applicable law</td>
         <td>No</td>
     </tr>
-    <tr>
-        <td>------------------------------------------------------------</td>
-        <td></td>
-        <td></td>
-    </tr>
 </table>
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
